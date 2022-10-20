@@ -1,7 +1,7 @@
 # Analisis del desempeño de las acciones de las mejores empresas del mundo
 
 
- Los datos se obtuvieron con la biblioteca Python 'yfinance' que extrae los datos de 'Yahoo! Finanzas'.Con lo cual realize el proceso de ETL(extrac,transform, load), mediante Python, despues pasamos a una base de datos con MySql, en el cual finalmente cargamos las tablas a Power Bi para el desempeno de Dashboard. 
+ Los datos se obtuvieron con la biblioteca Python 'yfinance' que extrae los datos de 'Yahoo! Finanzas'.Con lo cual realice el proceso de ETL(extrac,transform, load), mediante Python, despues pasamos a una base de datos con MySql, en el cual finalmente cargamos las tablas a Power Bi para el desempeño de Dashboard. 
  En el archivo main.py es donde realizamos el proceso de extracción de la API
 
 ![image](https://github.com/agusm95/Stock_market/blob/main/imagenes/Captura.PNG)<br>
