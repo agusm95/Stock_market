@@ -11,7 +11,7 @@
 
  Tambien analizamos la empresas que mas volume(Volumen) tienen que son Apple(APPL) y amazon(AMZN), con lo cual analizamos las variaciones adjClose(Precio de cierre ajustado).El precio de cierre ajustado es una herramienta importante para los inversores, especialmente los inversores a largo plazo y de valor. Ayuda a tener una idea del valor razonable de una acción. Por ejemplo, las divisiones de acciones solo reducen el precio de cierre y no tienen ningún impacto en el valor general de una empresa. Todas las empresas exitosas tienen múltiples divisiones de acciones y, por lo tanto, sin un precio de cierre ajustado, es posible que los inversores no puedan obtener la imagen correcta. Las divisiones de acciones también facilitan hacer una comparación similar.
 
- ![image](imagenes\dashboard2.PNG)<br>
+ ![image](https://github.com/agusm95/Stock_market/blob/main/imagenes/Captura.PNG)<br>
 
  ![image](imagenes\dashboard_amazon.PNG)<br>
 
