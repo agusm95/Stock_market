@@ -13,7 +13,7 @@
 
  ![image](https://github.com/agusm95/Stock_market/blob/main/imagenes/dashboard2.PNG)<br>
 
- ![image]([imagenes\dashboard_amazon.PNG](https://github.com/agusm95/Stock_market/blob/main/imagenes/dashboard_amazon.PNG))<br>
+ ![image](https://github.com/agusm95/Stock_market/blob/main/imagenes/dashboard_amazon.PNG)<br>
 
 
 
